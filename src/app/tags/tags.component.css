@@ -1,0 +1,16 @@
+.Tags{
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+
+
+}
+.Tags  a{
+    background-color: #c3c2c2;
+    padding: .3rem 1rem;
+    margin: .2rem .15rem;
+    text-decoration: none;
+    color:blue;
+   font-weight: 700;
+    border-radius: 10rem;
+}
